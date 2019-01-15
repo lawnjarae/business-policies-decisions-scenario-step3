@@ -72,7 +72,7 @@
           <constraintValueType>1</constraintValueType>
           <factField>totalFraudAmount</factField>
           <fieldType>Float</fieldType>
-          <operator>&gt;</operator>
+          <operator>&lt;=</operator>
           <parameters/>
           <binding></binding>
         </condition-column52>
