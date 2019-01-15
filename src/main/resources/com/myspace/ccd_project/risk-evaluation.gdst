@@ -56,7 +56,7 @@
           <constraintValueType>1</constraintValueType>
           <factField>totalFraudAmount</factField>
           <fieldType>Float</fieldType>
-          <operator>&lt;=</operator>
+          <operator>&gt;</operator>
           <parameters/>
           <binding></binding>
         </condition-column52>
@@ -193,7 +193,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="float">250.0</valueNumeric>
+        <valueNumeric class="float">500.0</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_FLOAT</dataType>
         <isOtherwise>false</isOtherwise>
